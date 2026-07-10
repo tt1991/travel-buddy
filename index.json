@@ -1,0 +1,15 @@
+{
+  "travels": [
+    {
+      "id": "london-2026",
+      "name": "London",
+      "cities": [
+        {
+          "id": "london",
+          "name": "London",
+          "path": "london-2026/london"
+        }
+      ]
+    }
+  ]
+}
