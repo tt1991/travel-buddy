@@ -3,6 +3,7 @@
     {
       "id": "london-2026",
       "name": "London",
+      "version": "1",
       "cities": [
         {
           "id": "london",
@@ -14,6 +15,7 @@
     {
       "id": "london-2027",
       "name": "London 2027",
+      "version": "1",
       "cities": [
         {
           "id": "london1",
