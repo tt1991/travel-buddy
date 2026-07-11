@@ -11,23 +11,6 @@
           "path": "london-2026/london"
         }
       ]
-    },
-    {
-      "id": "london-2027",
-      "name": "London 2027",
-      "version": "1",
-      "cities": [
-        {
-          "id": "london1",
-          "name": "London1",
-          "path": "london-2027/london1"
-        },
-        {
-          "id": "london2",
-          "name": "London2",
-          "path": "london-2027/london2"
-        }
-      ]
     }
   ]
 }
