@@ -1,0 +1,225 @@
+{
+  "city": {
+    "city": "washington",
+    "name": "Washington, D.C.",
+    "image": "images/city_washington.jpg",
+    "address": "Washington, District of Columbia, USA",
+    "description": "1. Washington nem tartozik egyetlen államhoz sem — önálló szövetségi kerület (District of Columbia), amit kifejezetten a főváros számára hoztak létre 1790-ben.\n\n2. A várost Pierre Charles L'Enfant francia mérnök tervezte, széles sugárutakkal és körterekkel — állítólag Párizs ihlette.\n\n3. Egyetlen épület sem lehet magasabb a Capitolium bizonyos arányánál — ezért nincsenek felhőkarcolók, és a Washington Monument a legmagasabb építmény.\n\n4. A Smithsonian a világ legnagyobb múzeumi és kutatási komplexuma — 21 múzeuma szinte mind ingyenes.\n\n5. A város alaprajzát George Washington jelölte ki, de ő az egyetlen elnök, aki soha nem lakott a Fehér Házban — az csak 1800-ban készült el.\n\n6. A National Mall füves sétányát gyakran nevezik „Amerika előkertjének\" (America's Front Yard)."
+  },
+  "hotel": {
+    "city": "washington",
+    "title": "TODO - Washington-i szállás",
+    "image": "images/hotel_washington.jpg",
+    "address": "TODO cím\nWashington, DC, USA",
+    "checkIn": "15:00",
+    "checkOut": "11:00",
+    "time": "2026.10.27.   -   2026.10.29."
+  },
+  "places": [
+    {
+      "city": "washington",
+      "name": "White House",
+      "image": "images/places_white_house.jpg",
+      "address": "1600 Pennsylvania Ave NW, Washington, DC 20500, USA",
+      "description": "1. 132 szoba, 35 fürdőszoba, 8 lépcsőház és 3 lift — mégis szerényebb, mint sok európai palota.\n\n2. 1814-ben a britek felgyújtották az 1812-es háborúban; az újjáépítéskor festették fehérre a kormos falakat — innen a neve.\n\n3. Van saját teniszpálya, tekepálya, mozi, uszoda és futópálya is.\n\n4. George Washington az egyetlen elnök, aki soha nem lakott benne, mert az épület csak halála után készült el.",
+      "coordinates": [
+        38.8977,
+        -77.0365
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "Washington Monument",
+      "image": "images/places_washington_monument.jpg",
+      "address": "2 15th St NW, Washington, DC 20024, USA",
+      "description": "1. 169 méteres obeliszk — megépítésekor, 1884-ben a világ legmagasabb építménye volt.\n\n2. A márvány színe kétharmad magasságban élesen elüt: a pénzhiány miatt 20 évig állt az építkezés, és a második szakaszban már más kőbányából érkezett a kő.\n\n3. Az egész National Mall középpontja — tükröződése a Reflecting Pool vizében az egyik legikonikusabb washingtoni látvány.",
+      "coordinates": [
+        38.8895,
+        -77.0353
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "Dupont Circle",
+      "image": "images/places_dupont_circle.jpg",
+      "address": "Dupont Circle, Washington, DC 20036, USA",
+      "description": "1. A város egyik legpezsgőbb negyede — kávézókkal, könyvesboltokkal és galériákkal teli.\n\n2. A körtér közepén álló márványszökőkút a polgárháborús admirális, Samuel Francis Du Pont emlékére készült.\n\n3. Vasárnaponként népszerű termelői piac működik itt, és a negyed a város LMBTQ-életének is központja.",
+      "coordinates": [
+        38.9097,
+        -77.0434
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "Penn Quarter",
+      "image": "images/places_penn_quarter.jpg",
+      "address": "Penn Quarter, Washington, DC 20004, USA",
+      "description": "1. A belváros nyüzsgő szórakozó- és éttermi negyede, közel a Capitolhoz és a Fehér Házhoz.\n\n2. Itt található a Ford's Theatre, ahol Lincoln elnököt 1865-ben meggyilkolták.\n\n3. A negyedben van a Capital One Arena, a város nagy sport- és koncertcsarnoka.",
+      "coordinates": [
+        38.8951,
+        -77.0219
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "U.S. Capitol",
+      "image": "images/places_us_capitol.jpg",
+      "address": "First St SE, Washington, DC 20004, USA",
+      "description": "1. A Kongresszus — a Szenátus és a Képviselőház — székhelye. A kupola tetején álló Szabadság-szobor (Statue of Freedom) 6 méter magas.\n\n2. Az öntöttvas kupola 4000 tonnát nyom, és a polgárháború idején, 1863-ban készült el — Lincoln ragaszkodott hozzá, hogy az építkezés a háború alatt is folytatódjon, az Unió szimbólumaként.\n\n3. A Capitol pontosan a város középpontja — a washingtoni utcák számozása és a négy negyed (NW, NE, SW, SE) mind innen indul.",
+      "coordinates": [
+        38.8899,
+        -77.0091
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "Library of Congress",
+      "image": "images/places_library_of_congress.jpg",
+      "address": "10 First St SE, Washington, DC 20540, USA",
+      "description": "1. A világ legnagyobb könyvtára — több mint 170 millió tétellel és 1300 km-nyi polccal.\n\n2. Thomas Jefferson saját 6487 kötetes gyűjteményével alapozták újra, miután a britek 1814-ben felégették az eredeti állományt.\n\n3. A Thomas Jefferson Building főolvasóterme és aranyozott díszítése a város egyik legpompásabb belső tere.",
+      "coordinates": [
+        38.8887,
+        -77.0047
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "National Mall",
+      "image": "images/places_national_mall.jpg",
+      "address": "National Mall, Washington, DC, USA",
+      "description": "1. Közel 3 km hosszú füves sétány a Capitol és a Lincoln Memorial között — „Amerika előkertje\".\n\n2. Itt zajlanak a nagy nemzeti események: elnöki beiktatások, tiltakozások, köztük Martin Luther King híres „I Have a Dream\" beszéde 1963-ban.\n\n3. A sétányt szegélyezik a Smithsonian múzeumok és a nemzeti emlékművek.",
+      "coordinates": [
+        38.8899,
+        -77.023
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "National Air and Space Museum",
+      "image": "images/places_national_air_and_space_museum.jpg",
+      "address": "600 Independence Ave SW, Washington, DC 20560, USA",
+      "description": "1. A világ egyik leglátogatottabb múzeuma — itt látható a Wright fivérek eredeti 1903-as repülőgépe és az Apollo 11 parancsnoki modulja.\n\n2. Charles Lindbergh Spirit of St. Louis gépe, amivel elsőként repülte át egyedül az Atlanti-óceánt, a mennyezetről lóg.\n\n3. Van egy valódi holdkőzet-darab, amit meg is lehet érinteni.",
+      "coordinates": [
+        38.8882,
+        -77.0199
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "National Museum of Natural History",
+      "image": "images/places_national_museum_of_natural_history.jpg",
+      "address": "10th St & Constitution Ave NW, Washington, DC 20560, USA",
+      "description": "1. A bejárati rotundában egy 4 méter magas afrikai elefánt fogadja a látogatókat.\n\n2. Itt őrzik a híres Hope-gyémántot — a 45,52 karátos kék drágakövet, amelyhez átok legendája fűződik.\n\n3. Több mint 145 millió példány és tárgy a gyűjteményében — a világ egyik legnagyobb természettudományi múzeuma. Ingyenes a belépés.",
+      "coordinates": [
+        38.8913,
+        -77.026
+      ]
+    },
+    {
+      "city": "washington",
+      "name": "Georgetown",
+      "image": "images/places_georgetown.jpg",
+      "address": "Georgetown, Washington, DC 20007, USA",
+      "description": "1. A város legrégebbi negyede — még Washington megalapítása előtt, 1751-ben jött létre.\n\n2. Macskaköves utcák, előkelő szövetségi kori házak és a Potomac partján futó C&O-csatorna jellemzi.\n\n3. Itt található a Georgetown University, az USA legrégebbi katolikus egyeteme, és számos filmet forgattak itt, köztük Az ördögűzőt (a híres meredek lépcső).",
+      "coordinates": [
+        38.9076,
+        -77.0723
+      ]
+    }
+  ],
+  "program": {
+    "2026.10.27 - kedd": [
+      {
+        "time": "09:00",
+        "name": "Utazás vonattal New Yorkból (Amtrak)",
+        "address": "Penn Station, New York, NY"
+      },
+      {
+        "time": "13:00",
+        "name": "Szállás elfoglalása",
+        "address": "TODO szálloda, Washington, DC"
+      },
+      {
+        "time": "15:00",
+        "name": "White House",
+        "address": "1600 Pennsylvania Ave NW, Washington, DC 20500"
+      },
+      {
+        "time": "16:00",
+        "name": "Washington Monument",
+        "address": "2 15th St NW, Washington, DC 20024"
+      },
+      {
+        "time": "18:30",
+        "name": "Dupont Circle / Penn Quarter - vacsora",
+        "address": "Dupont Circle, Washington, DC 20036"
+      }
+    ],
+    "2026.10.28 - szerda": [
+      {
+        "time": "09:30",
+        "name": "U.S. Capitol",
+        "address": "First St SE, Washington, DC 20004"
+      },
+      {
+        "time": "11:30",
+        "name": "Library of Congress",
+        "address": "10 First St SE, Washington, DC 20540"
+      },
+      {
+        "time": "13:30",
+        "name": "National Mall - séta",
+        "address": "National Mall, Washington, DC"
+      },
+      {
+        "time": "14:30",
+        "name": "National Air and Space Museum",
+        "address": "600 Independence Ave SW, Washington, DC 20560"
+      },
+      {
+        "time": "16:00",
+        "name": "National Museum of Natural History",
+        "address": "10th St & Constitution Ave NW, Washington, DC 20560"
+      },
+      {
+        "time": "19:00",
+        "name": "Georgetown - vacsora a Potomac partján",
+        "address": "Georgetown, Washington, DC 20007"
+      }
+    ]
+  },
+  "travel": {
+    "cards": [
+      {
+        "title": "NYC - Washington D.C.",
+        "type": "train",
+        "time": "2026.10.27. TODO   -   2026.10.27. TODO",
+        "image": "images/travel_nyc_dc.jpg",
+        "address": "Moynihan+Train+Hall+Penn+Station+New+York",
+        "info": {
+          "startTime": "2026.10.27. TODO",
+          "start": "New York - Penn Station (Amtrak Northeast Regional)",
+          "startAddress": "Moynihan+Train+Hall+Penn+Station+New+York",
+          "endTime": "2026.10.27. TODO",
+          "end": "Washington - Union Station",
+          "endAddress": "Union+Station+Washington+DC"
+        }
+      },
+      {
+        "title": "Washington D.C. - SFO",
+        "type": "airplane",
+        "time": "2026.10.29. TODO   -   2026.10.29. TODO",
+        "image": "images/travel_dc_sfo.jpg",
+        "address": "Ronald+Reagan+Washington+National+Airport",
+        "info": {
+          "startTime": "2026.10.29. TODO",
+          "start": "Washington - Reagan National / Dulles repülőtér",
+          "startAddress": "Ronald+Reagan+Washington+National+Airport",
+          "endTime": "2026.10.29. TODO",
+          "end": "San Francisco International Airport",
+          "endAddress": "San+Francisco+International+Airport"
+        }
+      }
+    ]
+  }
+}

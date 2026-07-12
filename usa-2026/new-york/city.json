@@ -1,0 +1,433 @@
+{
+  "city": {
+    "city": "new-york",
+    "name": "New York",
+    "image": "images/city_new_york.jpg",
+    "address": "New York, NY, USA",
+    "description": "1. New York öt kerületből áll: Manhattan, Brooklyn, Queens, Bronx és Staten Island. Ha Brooklyn önálló város lenne, az USA negyedik legnagyobb városa lenne.\n\n2. A metró (Subway) 472 állomással a világ legtöbb állomással rendelkező hálózata, és a nap 24 órájában üzemel.\n\n3. Több mint 800 nyelvet beszélnek a városban — ezzel a Föld nyelvileg legsokszínűbb helye.\n\n4. A Central Park nagyobb, mint Monaco állam, és teljes egészében ember alkotta táj — egyetlen fát vagy tavat sem hagytak érintetlenül.\n\n5. A Szabadság-szobrot Franciaország ajándékozta az USA-nak 1886-ban. A réz külseje eredetileg fényes barna volt, az oxidáció tette zölddé.\n\n6. Manhattan szigetét a legenda szerint 1626-ban 24 dollár értékű áruért vették meg a holland telepesek a helyi őslakosoktól.\n\n7. A város beceneve, a „Big Apple\" az 1920-as évekből származik — lóversenyzsargonból, ahol a nagy nyereményt jelentette."
+  },
+  "hotel": {
+    "city": "new-york",
+    "title": "TODO - New York-i szállás",
+    "image": "images/hotel_new_york.jpg",
+    "address": "TODO cím\nNew York, NY, USA",
+    "checkIn": "15:00",
+    "checkOut": "11:00",
+    "time": "2026.10.22.   -   2026.10.27."
+  },
+  "places": [
+    {
+      "city": "new-york",
+      "name": "Times Square",
+      "image": "images/places_times_square.jpg",
+      "address": "Manhattan, NY 10036, USA",
+      "description": "1. Napi átlagosan 330 000 ember fordul meg itt, csúcsnapokon a fél milliót is meghaladja.\n\n2. A híres óriási reklámtáblák (billboards) kötelezőek — a városi szabályozás előírja, hogy az épületeknek fényreklámot kell viselniük, hogy megőrizzék a tér hangulatát.\n\n3. A nevét a The New York Times után kapta, amely 1904-ben ide költöztette székházát. Korábban Longacre Square volt a neve.\n\n4. Minden szilveszterkor itt ereszkedik le a híres kristálygömb (Ball Drop) — a hagyomány 1907 óta él, és világszerte több mint egymilliárdan nézik.",
+      "coordinates": [
+        40.758,
+        -73.9855
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Bryant Park",
+      "image": "images/places_bryant_park.jpg",
+      "address": "New York, NY 10018, USA",
+      "description": "1. A park alatt raktározza a New York Public Library könyveinek jelentős részét — több millió kötet fekszik a gyep alatt.\n\n2. Télen ingyenes korcsolyapálya, nyáron szabadtéri mozi és jógaórák helyszíne.\n\n3. Az 1980-as években a park a bűnözés és a drog melegágya volt, mára a város egyik legszebben ápolt zöld tere lett.",
+      "coordinates": [
+        40.7536,
+        -73.9832
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "New York Public Library",
+      "image": "images/places_new_york_public_library.jpg",
+      "address": "476 5th Ave, New York, NY 10018, USA",
+      "description": "1. A főbejáratot két márványoroszlán őrzi, becenevük Patience és Fortitude (Türelem és Kitartás) — La Guardia polgármester nevezte el őket a nagy gazdasági válság idején.\n\n2. Az USA egyik legnagyobb közkönyvtára, több mint 50 millió tétellel.\n\n3. Számtalan filmben feltűnt, a Szellemirtóktól a Holnaputánig, ahol a szereplők könyveket égetnek a hidegben.",
+      "coordinates": [
+        40.7532,
+        -73.9822
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Grand Central Terminal",
+      "image": "images/places_grand_central_terminal.jpg",
+      "address": "89 E 42nd St, New York, NY 10017, USA",
+      "description": "1. A világ legnagyobb pályaudvara peronszám alapján — 44 peron és 67 vágány.\n\n2. A főcsarnok mennyezetén festett csillagos égbolt látható — de fordítva, tükrözve. A hiba a mai napig megmaradt.\n\n3. A „Whispering Gallery\" boltívei alatt ha az egyik sarokba súgsz, a szemközti sarokban tökéletesen hallható — kedvelt lánykérőhely.\n\n4. 1913-ban nyílt meg, és az 1970-es években majdnem lebontották, mire Jacqueline Kennedy Onassis vezetésével megmentették.",
+      "coordinates": [
+        40.7527,
+        -73.9772
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Central Park",
+      "image": "images/places_central_park.jpg",
+      "address": "New York, NY, USA",
+      "description": "1. 341 hektáros, teljes egészében tervezett táj — Frederick Law Olmsted és Calvert Vaux alkotása 1858-ból.\n\n2. Több mint 40 millió látogató fordul meg itt évente, ezzel az USA leglátogatottabb városi parkja.\n\n3. Több filmet forgattak itt, mint bármely más helyszínen a világon — több mint 350-et.\n\n4. Ősszel a juharfák és tölgyek lángvörös és aranysárga lombja teszi a parkot a legfotogénebbé.",
+      "coordinates": [
+        40.7829,
+        -73.9654
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Top of the Rock",
+      "image": "images/places_top_of_the_rock.jpg",
+      "address": "30 Rockefeller Plaza, New York, NY 10112, USA",
+      "description": "1. A Rockefeller Center 70 emeletén lévő kilátóteraszról nyílik a legjobb rálátás az Empire State Buildingre — épp azért népszerű, mert innen látszik a híres épület.\n\n2. A Rockefeller Center art deco épületegyüttesét John D. Rockefeller finanszírozta az 1930-as évek gazdasági válsága idején, több tízezer embernek adva munkát.\n\n3. Karácsonykor itt áll a világ leghíresebb karácsonyfája és a jégpálya.",
+      "coordinates": [
+        40.7587,
+        -73.9787
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Empire State Building",
+      "image": "images/places_empire_state_building.jpg",
+      "address": "20 W 34th St, New York, NY 10001, USA",
+      "description": "1. 1931-ben mindössze 410 nap alatt épült fel — a nagy gazdasági válság közepén, elképesztő tempóban.\n\n2. 443 méter magas a csúcsával együtt, és 40 éven át a világ legmagasabb épülete volt.\n\n3. A tetejét szinte minden este más színnel világítják ki, alkalmakhoz és ünnepekhez igazodva.\n\n4. A King Kong 1933-as filmje óta a popkultúra egyik ikonja — évente kb. 100-an kérik meg itt párjuk kezét.",
+      "coordinates": [
+        40.7484,
+        -73.9857
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Charging Bull",
+      "image": "images/places_charging_bull.jpg",
+      "address": "Bowling Green, New York, NY 10004, USA",
+      "description": "1. Arturo Di Modica szobrász 1989-ben engedély nélkül, éjszaka állította fel a tőzsde elé, a tőzsdekrach utáni optimizmus jelképeként.\n\n2. A rendőrség először elszállította, de a közfelháborodás miatt visszahelyezték — azóta a Wall Street szimbóluma.\n\n3. A turisták a szerencse reményében simogatják — a bika bizonyos részei fényesre koptak.",
+      "coordinates": [
+        40.7056,
+        -74.0134
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "9/11 Memorial",
+      "image": "images/places_9_11_memorial.jpg",
+      "address": "180 Greenwich St, New York, NY 10007, USA",
+      "description": "1. A két ikertorony helyén két hatalmas, süllyesztett medence áll — a nemzet legnagyobb ember alkotta vízeséseivel.\n\n2. A medencék peremébe a 2001. szeptember 11-i és az 1993-as merényletek mind a 2983 áldozatának neve van bevésve.\n\n3. Az emlékmű mellett egy túlélő körtefa (Survivor Tree) áll, amelyet a romok alól mentettek ki és ápoltak vissza az életbe.\n\n4. A One World Trade Center 541 méteres (1776 láb) magassága az USA függetlenségi nyilatkozatának évére utal.",
+      "coordinates": [
+        40.7115,
+        -74.0134
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Brooklyn Bridge",
+      "image": "images/places_brooklyn_bridge.jpg",
+      "address": "Brooklyn Bridge, New York, NY 10038, USA",
+      "description": "1. 1883-ban nyílt meg, és 14 évig épült — megnyitásakor a világ leghosszabb függőhídja volt.\n\n2. A tervező John Roebling még az építkezés előtt meghalt, fia átvette, de lebénult, így a felesége, Emily Roebling fejezte be — az első nő, aki egy nagy hídépítést irányított.\n\n3. Egy héttel a megnyitás után pánik tört ki a hídon, mert azt hitték, összedől — 12 ember meghalt a tömegben. A bizalom helyreállítására P. T. Barnum 21 elefántot hajtott át rajta.",
+      "coordinates": [
+        40.7061,
+        -73.9969
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "DUMBO",
+      "image": "images/places_dumbo.jpg",
+      "address": "DUMBO, Brooklyn, NY 11201, USA",
+      "description": "1. A név egy mozaikszó: „Down Under the Manhattan Bridge Overpass\" — a Manhattan híd felüljárója alatti negyed.\n\n2. A Washington Street sarka, ahonnan a Manhattan híd épp két téglaépület közé keretezi az Empire State Buildinget, a világ egyik legfotózottabb helye.\n\n3. Egykori ipari raktárnegyed, mára Brooklyn egyik legdrágább, galériákkal és designstúdiókkal teli városrésze.",
+      "coordinates": [
+        40.7033,
+        -73.9881
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Staten Island Ferry",
+      "image": "images/places_staten_island_ferry.jpg",
+      "address": "4 Whitehall St, New York, NY 10004, USA",
+      "description": "1. A komp teljesen ingyenes, és évente több mint 25 millió utast szállít Manhattan és Staten Island között.\n\n2. Az útvonal elhalad a Szabadság-szobor mellett — így ingyen lehet megcsodálni a vízről, jegyvásárlás nélkül.\n\n3. Naplementekor a legszebb az út, amikor a manhattani felhőkarcolók sziluettje kirajzolódik.",
+      "coordinates": [
+        40.7013,
+        -74.0134
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "High Line",
+      "image": "images/places_high_line.jpg",
+      "address": "New York, NY 10011, USA",
+      "description": "1. Egy régi, magasban futó teherszállító vasútvonalból alakították át 2,3 km hosszú lineáris parkká.\n\n2. A vasutat az 1980-as években hagyták fel, és majdnem lebontották, mire helyi lakosok megmentették és kertté alakították.\n\n3. A növényzet az elhagyott sínek közt magától kikelő vadvirágokat idézi — szándékosan hagyták „elvadultnak\".",
+      "coordinates": [
+        40.748,
+        -74.0048
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Chelsea Market",
+      "image": "images/places_chelsea_market.jpg",
+      "address": "75 9th Ave, New York, NY 10011, USA",
+      "description": "1. Az épület egykor a National Biscuit Company (Nabisco) gyára volt — itt találták fel az Oreo kekszet 1912-ben.\n\n2. Ma a város egyik legnépszerűbb fedett gasztropiaca, több tucat étteremmel és bolttal.\n\n3. A High Line épp mellette halad el, a felső szinteken pedig a Google New York-i irodái működnek.",
+      "coordinates": [
+        40.7424,
+        -74.0061
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Greenwich Village",
+      "image": "images/places_greenwich_village.jpg",
+      "address": "Greenwich Village, New York, NY, USA",
+      "description": "1. A bohém művészek és írók negyede — itt élt Bob Dylan, és innen indult az 1960-as évek folk-mozgalma.\n\n2. A Stonewall Inn itt található, ahol az 1969-es zavargások az LMBTQ-jogi mozgalom kiindulópontjává váltak.\n\n3. Szabálytalan, ferde utcahálózata eltér Manhattan szigorú rácsszerkezetétől — könnyű eltévedni benne.",
+      "coordinates": [
+        40.7336,
+        -74.0027
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "SoHo",
+      "image": "images/places_soho.jpg",
+      "address": "SoHo, New York, NY, USA",
+      "description": "1. A név a „South of Houston Street\" rövidítése.\n\n2. A világ legnagyobb összefüggő öntöttvas homlokzatú épületegyüttese található itt — a 19. századi ipari építészet remekei.\n\n3. Egykor művészek loft-negyede volt, mára a divatmárkák és galériák elegáns bevásárlónegyede.",
+      "coordinates": [
+        40.7233,
+        -74.003
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Chinatown",
+      "image": "images/places_chinatown.jpg",
+      "address": "Chinatown, New York, NY, USA",
+      "description": "1. A nyugati félteke legnagyobb kínai közössége — becslések szerint több mint 100 000 lakossal.\n\n2. A Mott Street a negyed szíve, tele éttermekkel, teaházakkal és piacokkal.\n\n3. A kínai újév ünneplése itt a legnagyobb New Yorkban — sárkánytánccal és petárdákkal.",
+      "coordinates": [
+        40.7158,
+        -73.997
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Little Italy",
+      "image": "images/places_little_italy.jpg",
+      "address": "Little Italy, New York, NY, USA",
+      "description": "1. Egykor hatalmas olasz bevándorlónegyed, ma már csak néhány utcára — főleg a Mulberry Street-re — zsugorodott, mivel Chinatown fokozatosan bekebelezte.\n\n2. Szeptemberben tartják a Feast of San Gennaro fesztivált, amikor az utcák megtelnek olasz ételekkel és zenével.\n\n3. Számos maffiafilm — köztük A Keresztapa — helyszíne és ihletője.",
+      "coordinates": [
+        40.7191,
+        -73.9973
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "The Met",
+      "image": "images/places_the_met.jpg",
+      "address": "1000 5th Ave, New York, NY 10028, USA",
+      "description": "1. A Metropolitan Museum of Art a nyugati félteke legnagyobb művészeti múzeuma — több mint 2 millió műtárggyal.\n\n2. A gyűjtemény 5000 évet ölel át: egyiptomi templomtól (a teljes Dendur-templomot ide szállították) a modern festészetig.\n\n3. A híres Met Gála itt zajlik minden májusban — a divatvilág legnagyobb eseménye.\n\n4. A belépő hivatalosan „ajánlott adomány\" New York állam lakóinak — annyit fizetsz, amennyit szeretnél.",
+      "coordinates": [
+        40.7794,
+        -73.9632
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "MoMA",
+      "image": "images/places_moma.jpg",
+      "address": "11 W 53rd St, New York, NY 10019, USA",
+      "description": "1. A Museum of Modern Art a modern művészet egyik legfontosabb gyűjteménye — itt van Van Gogh Csillagos éj című festménye.\n\n2. Monet Vízililiomok sorozata, Picasso és Warhol művei is a gyűjtemény ékkövei.\n\n3. 1929-ben három nő alapította, köztük Abby Aldrich Rockefeller — a modern művészet iránti közmegvetés idején.",
+      "coordinates": [
+        40.7614,
+        -73.9776
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Fifth Avenue",
+      "image": "images/places_fifth_avenue.jpg",
+      "address": "5th Ave, New York, NY, USA",
+      "description": "1. A világ egyik legdrágább bevásárlóutcája — a bérleti díjak itt a legmagasabbak a bolygón.\n\n2. Itt sorakoznak a luxusmárkák: Tiffany & Co., Saks, Bergdorf Goodman.\n\n3. Az Apple üvegkocka-üzlete a sugárúton az egyik legfotózottabb bolt a világon.",
+      "coordinates": [
+        40.764,
+        -73.974
+      ]
+    },
+    {
+      "city": "new-york",
+      "name": "Hudson Yards",
+      "image": "images/places_hudson_yards.jpg",
+      "address": "20 Hudson Yards, New York, NY 10001, USA",
+      "description": "1. Az USA történetének legnagyobb magánberuházása — egy működő vasúti pályaudvar fölé épített, teljesen új városnegyed.\n\n2. A Vessel nevű, mézeskaptárra emlékeztető, 46 méter magas lépcsőszobor a negyed központi látványossága.\n\n3. Az Edge nevű kilátóterasz a nyugati félteke legmagasabb, szabadtéri kilátója — 335 méteren lóg ki az épület oldalából.",
+      "coordinates": [
+        40.7539,
+        -74.0018
+      ]
+    }
+  ],
+  "program": {
+    "2026.10.22 - csütörtök": [
+      {
+        "time": "14:00",
+        "name": "Érkezés - John F. Kennedy repülőtér (JFK)",
+        "address": "JFK Airport, Queens, NY 11430"
+      },
+      {
+        "time": "16:00",
+        "name": "Szállás elfoglalása",
+        "address": "TODO szálloda, New York"
+      },
+      {
+        "time": "18:00",
+        "name": "New York-i pizzaszelet és pihenés (jet lag)",
+        "address": "New York, NY"
+      }
+    ],
+    "2026.10.23 - péntek": [
+      {
+        "time": "09:30",
+        "name": "Times Square",
+        "address": "Manhattan, NY 10036"
+      },
+      {
+        "time": "10:30",
+        "name": "Bryant Park",
+        "address": "New York, NY 10018"
+      },
+      {
+        "time": "11:00",
+        "name": "New York Public Library",
+        "address": "476 5th Ave, New York, NY 10018"
+      },
+      {
+        "time": "11:45",
+        "name": "Grand Central Terminal",
+        "address": "89 E 42nd St, New York, NY 10017"
+      },
+      {
+        "time": "13:30",
+        "name": "Central Park - őszi séta",
+        "address": "New York, NY"
+      },
+      {
+        "time": "17:00",
+        "name": "Top of the Rock - kilátás",
+        "address": "30 Rockefeller Plaza, New York, NY 10112"
+      }
+    ],
+    "2026.10.24 - szombat": [
+      {
+        "time": "09:30",
+        "name": "Wall Street",
+        "address": "Wall St, New York, NY 10005"
+      },
+      {
+        "time": "10:00",
+        "name": "Charging Bull",
+        "address": "Bowling Green, New York, NY 10004"
+      },
+      {
+        "time": "10:45",
+        "name": "9/11 Memorial",
+        "address": "180 Greenwich St, New York, NY 10007"
+      },
+      {
+        "time": "13:00",
+        "name": "Brooklyn Bridge - séta át",
+        "address": "Brooklyn Bridge, New York, NY 10038"
+      },
+      {
+        "time": "14:30",
+        "name": "DUMBO",
+        "address": "DUMBO, Brooklyn, NY 11201"
+      },
+      {
+        "time": "17:00",
+        "name": "Staten Island Ferry - naplemente",
+        "address": "4 Whitehall St, New York, NY 10004"
+      }
+    ],
+    "2026.10.25 - vasárnap": [
+      {
+        "time": "10:00",
+        "name": "High Line",
+        "address": "New York, NY 10011"
+      },
+      {
+        "time": "12:00",
+        "name": "Chelsea Market - ebéd",
+        "address": "75 9th Ave, New York, NY 10011"
+      },
+      {
+        "time": "14:00",
+        "name": "Greenwich Village",
+        "address": "Greenwich Village, New York, NY"
+      },
+      {
+        "time": "15:30",
+        "name": "SoHo",
+        "address": "SoHo, New York, NY"
+      },
+      {
+        "time": "16:30",
+        "name": "Chinatown",
+        "address": "Chinatown, New York, NY"
+      },
+      {
+        "time": "18:30",
+        "name": "Little Italy - vacsora",
+        "address": "Little Italy, New York, NY"
+      }
+    ],
+    "2026.10.26 - hétfő": [
+      {
+        "time": "10:00",
+        "name": "The Met (vagy MoMA)",
+        "address": "1000 5th Ave, New York, NY 10028"
+      },
+      {
+        "time": "13:30",
+        "name": "Fifth Avenue - séta",
+        "address": "5th Ave, New York, NY"
+      },
+      {
+        "time": "15:00",
+        "name": "Hudson Yards",
+        "address": "20 Hudson Yards, New York, NY 10001"
+      },
+      {
+        "time": "19:00",
+        "name": "Broadway-előadás / búcsúvacsora",
+        "address": "Broadway, New York, NY"
+      }
+    ]
+  },
+  "travel": {
+    "cards": [
+      {
+        "title": "BUD - JFK",
+        "type": "airplane",
+        "time": "2026.10.22. TODO   -   2026.10.22. TODO",
+        "image": "images/travel_bud_jfk.jpg",
+        "address": "Budapest+Liszt+Ferenc+Nemzetközi+Repülőtér",
+        "info": {
+          "startTime": "2026.10.22. TODO",
+          "start": "Budapest - Liszt Ferenc Nemzetközi repülőtér",
+          "startAddress": "Budapest+Liszt+Ferenc+Nemzetközi+Repülőtér",
+          "endTime": "2026.10.22. TODO",
+          "end": "New York - John F. Kennedy International Airport",
+          "endAddress": "John+F+Kennedy+International+Airport+New+York"
+        }
+      },
+      {
+        "title": "NYC - Washington D.C.",
+        "type": "train",
+        "time": "2026.10.27. TODO   -   2026.10.27. TODO",
+        "image": "images/travel_nyc_dc.jpg",
+        "address": "Moynihan+Train+Hall+Penn+Station+New+York",
+        "info": {
+          "startTime": "2026.10.27. TODO",
+          "start": "New York - Penn Station (Amtrak Northeast Regional)",
+          "startAddress": "Moynihan+Train+Hall+Penn+Station+New+York",
+          "endTime": "2026.10.27. TODO",
+          "end": "Washington - Union Station",
+          "endAddress": "Union+Station+Washington+DC"
+        }
+      }
+    ]
+  }
+}

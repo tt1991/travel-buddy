@@ -1,6 +1,28 @@
 {
   "travels": [
     {
+      "id": "usa-2026",
+      "name": "USA",
+      "version": "1",
+      "cities": [
+        {
+          "id": "new-york",
+          "name": "New York",
+          "path": "usa-2026/new-york"
+        },
+        {
+          "id": "washington",
+          "name": "Washington, D.C.",
+          "path": "usa-2026/washington"
+        },
+        {
+          "id": "san-francisco",
+          "name": "San Francisco",
+          "path": "usa-2026/san-francisco"
+        }
+      ]
+    },
+    {
       "id": "london-2026",
       "name": "London",
       "version": "1",

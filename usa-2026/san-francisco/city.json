@@ -1,0 +1,400 @@
+{
+  "city": {
+    "city": "san-francisco",
+    "name": "San Francisco",
+    "image": "images/city_san_francisco.jpg",
+    "address": "San Francisco, CA, USA",
+    "description": "1. San Franciscót 43 dombra építették — ezért olyan meredekek az utcái, és ezért lettek híresek a kábelvasutak (cable car).\n\n2. A híres köd, becenevén „Karl the Fog\", a hideg óceáni áramlat és a meleg szárazföldi levegő találkozásából keletkezik — főleg nyáron gomolyog be.\n\n3. A Golden Gate híd narancsvörös színe („International Orange\") szándékos volt — jól látszik a ködben, és beleillik a tájba.\n\n4. Az Alcatraz börtönszigetről állítólag soha senki nem szökött meg sikeresen — bár hárman 1962-ben nyomtalanul eltűntek.\n\n5. A kaliforniai aranyláz idején, 1849-ben a város lakossága néhány hónap alatt 1000-ről 25 000-re nőtt — a szerencsevadászok emlékét őrzi a helyi focicsapat neve is (49ers).\n\n6. Az 1906-os földrengés és az azt követő tűzvész a város 80%-át elpusztította, de néhány éven belül újjáépült.\n\n7. Itt található az USA legrégebbi és legnagyobb kínai negyede."
+  },
+  "hotel": {
+    "city": "san-francisco",
+    "title": "TODO - San Franciscó-i szállás",
+    "image": "images/hotel_san_francisco.jpg",
+    "address": "TODO cím\nSan Francisco, CA, USA",
+    "checkIn": "15:00",
+    "checkOut": "11:00",
+    "time": "2026.10.29.   -   2026.11.05."
+  },
+  "places": [
+    {
+      "city": "san-francisco",
+      "name": "Painted Ladies",
+      "image": "images/places_painted_ladies.jpg",
+      "address": "Steiner St, San Francisco, CA 94117, USA",
+      "description": "1. Az Alamo Square szélén álló, egységes stílusú viktoriánus házsor — a mögötte magasodó modern belvárossal együtt a város egyik legismertebb látképe.\n\n2. A hét ház az 1890-es években épült, és élénk pasztellszínekre festették őket — innen a becenevük.\n\n3. A Full House (Bír-lak) című sorozat főcíme tette világhírűvé a helyszínt.",
+      "coordinates": [
+        37.7762,
+        -122.4326
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Mission District",
+      "image": "images/places_mission_district.jpg",
+      "address": "Mission District, San Francisco, CA, USA",
+      "description": "1. A város legnapfényesebb negyede — a dombok itt felfogják a ködöt.\n\n2. Híres a több száz utcai falfestményéről (murals), különösen a Balmy Alley és a Clarion Alley sikátorokban.\n\n3. A latin-amerikai, főleg mexikói konyha központja — állítólag itt találták fel a hatalmas „Mission burritót\".",
+      "coordinates": [
+        37.7599,
+        -122.4148
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Cable Car",
+      "image": "images/places_cable_car.jpg",
+      "address": "Powell St & Market St, San Francisco, CA 94102, USA",
+      "description": "1. A világ utolsó, még mindig kézzel működtetett kábelvasút-rendszere — 1873 óta üzemel.\n\n2. Nincs motor a kocsikban: egy folyamatosan mozgó, föld alatti kábelbe kapaszkodnak bele, amit a kocsivezető (gripman) fog meg és enged el.\n\n3. Az USA egyetlen mozgó nemzeti műemléke.\n\n4. A Powell-Hyde vonal végállomásánál a kocsikat kézzel, egy fordítókorongon (turntable) fordítják meg.",
+      "coordinates": [
+        37.7846,
+        -122.4079
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Lombard Street",
+      "image": "images/places_lombard_street.jpg",
+      "address": "Lombard St, San Francisco, CA 94133, USA",
+      "description": "1. A „világ legkanyargósabb utcája\" — egyetlen háztömbön nyolc éles hajtűkanyar.\n\n2. A kanyarokat 1922-ben építették ki, mert az eredeti 27%-os lejtő túl meredek volt az autóknak.\n\n3. A kanyarokat virágágyások szegélyezik, amelyek évszakonként más színben pompáznak.",
+      "coordinates": [
+        37.8021,
+        -122.4187
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Fisherman's Wharf",
+      "image": "images/places_fishermans_wharf.jpg",
+      "address": "Fisherman's Wharf, San Francisco, CA 94133, USA",
+      "description": "1. A város egykori halászkikötője, ma nyüzsgő turistanegyed éttermekkel és tengeri herkentyűkkel.\n\n2. Innen indulnak a hajók az Alcatraz-szigetre.\n\n3. A híres helyi specialitás a clam chowder (kagylóleves), amit kivájt savanyú kovászos kenyérből (sourdough bread bowl) fogyasztanak.",
+      "coordinates": [
+        37.808,
+        -122.4177
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Pier 39",
+      "image": "images/places_pier_39.jpg",
+      "address": "Pier 39, San Francisco, CA 94133, USA",
+      "description": "1. A móló leghíresebb lakói a tengeri oroszlánok — 1989 óta telepedtek meg itt, néha több százan hevernek a pontonokon.\n\n2. Azért maradtak, mert bőséges hering és biztonságos pihenőhely várta őket — ma a város egyik legkedveltebb ingyenes látványossága.\n\n3. A móló tele van boltokkal, körhintával és az öböl kilátásával.",
+      "coordinates": [
+        37.8087,
+        -122.4098
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Golden Gate Bridge",
+      "image": "images/places_golden_gate_bridge.jpg",
+      "address": "Golden Gate Bridge, San Francisco, CA, USA",
+      "description": "1. 1937-ben nyílt meg, és négy évig a világ leghosszabb függőhídja volt — 2,7 km hosszú.\n\n2. A híd folyamatos festése örökös munka: a sós, ködös levegő miatt egy csapat egész évben a narancsvörös festéket újítja.\n\n3. A híd anyagát úgy tervezték, hogy az erős szélben akár 8 métert is kilenghet oldalra.\n\n4. Két hatalmas pillére 227 méter magas — megnyitásakor magasabb volt, mint bármely nyugat-parti épület.",
+      "coordinates": [
+        37.8199,
+        -122.4783
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Sausalito",
+      "image": "images/places_sausalito.jpg",
+      "address": "Sausalito, CA 94965, USA",
+      "description": "1. Bájos, mediterrán hangulatú öbölparti kisváros a Golden Gate híd túloldalán.\n\n2. Híres a vízen úszó lakóhajóiról (houseboats) — több száz család él állandóan a vízen.\n\n3. A partról lélegzetelállító kilátás nyílik vissza San Francisco látképére — a komppal visszatérve a legszebb az élmény.",
+      "coordinates": [
+        37.8591,
+        -122.4853
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Ferry Building",
+      "image": "images/places_ferry_building.jpg",
+      "address": "1 Ferry Building, San Francisco, CA 94111, USA",
+      "description": "1. 1898-ban épült, 74 méteres óratornya a sevillai Giralda torony ihlette.\n\n2. Egykor a világ egyik legforgalmasabb közlekedési csomópontja volt, mielőtt a hidak megépültek.\n\n3. Ma nívós gasztropiac működik benne — helyi termelők, sajtok, kávé és a szombati farmerpiac.",
+      "coordinates": [
+        37.7955,
+        -122.3937
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Golden Gate Park",
+      "image": "images/places_golden_gate_park.jpg",
+      "address": "Golden Gate Park, San Francisco, CA, USA",
+      "description": "1. Nagyobb, mint a New York-i Central Park — több mint 1000 hektár, teljes egészében homokdűnékből meghódított terület.\n\n2. Itt található a Japanese Tea Garden, az USA legrégebbi nyilvános japánkertje (1894).\n\n3. A Conservatory of Flowers viktoriánus üvegpalotája a park legrégebbi épülete, tele trópusi növényekkel.",
+      "coordinates": [
+        37.7694,
+        -122.4862
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Lands End",
+      "image": "images/places_lands_end.jpg",
+      "address": "Lands End, San Francisco, CA 94121, USA",
+      "description": "1. Rögös parti túraútvonal a város északnyugati csücskén, festői kilátással a Golden Gate hídra.\n\n2. A Sutro Baths romjai itt találhatók — egykor a világ legnagyobb fedett úszófürdője volt (1896), ma tengerparti rom.\n\n3. A partszakasz hírhedt a hajóroncsokról, amelyek apálykor néha előbukkannak.",
+      "coordinates": [
+        37.7804,
+        -122.5107
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Napa Valley",
+      "image": "images/places_napa_valley.jpg",
+      "address": "Napa Valley, CA, USA",
+      "description": "1. Kalifornia leghíresebb borvidéke — több mint 400 pincészettel a szűk völgyben.\n\n2. Az 1976-os „Judgment of Paris\" vakkóstolón a napai borok legyőzték a francia csúcsborokat, ami világhírűvé tette a vidéket.\n\n3. A dombokat szőlőültetvények és elegáns birtokok borítják — kb. másfél órányira San Franciscótól.",
+      "coordinates": [
+        38.5025,
+        -122.2654
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Monterey",
+      "image": "images/places_monterey.jpg",
+      "address": "Monterey, CA 93940, USA",
+      "description": "1. Történelmi tengerparti város a Highway 1 mentén, egykor Kalifornia spanyol és mexikói fővárosa.\n\n2. A Cannery Row egykori szardíniakonzerv-gyárait John Steinbeck tette halhatatlanná azonos című regényében.\n\n3. A Monterey Bay Aquarium a világ egyik leghíresebb akváriuma — épp egy régi konzervgyár épületében.",
+      "coordinates": [
+        36.6002,
+        -121.8947
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Half Moon Bay",
+      "image": "images/places_half_moon_bay.jpg",
+      "address": "Half Moon Bay, CA 94019, USA",
+      "description": "1. Festői tengerparti kisváros a Highway 1 mentén, drámai sziklás partszakaszokkal.\n\n2. A közeli Mavericks a világ egyik leghíresebb nagyhullámú szörfhelye — a hullámok télen a 18 métert is elérhetik.\n\n3. Híres a tökfesztiváljáról, ahol óriástökök versenyeznek — némelyik meghaladja a 900 kilót.",
+      "coordinates": [
+        37.4636,
+        -122.4286
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Chinatown",
+      "image": "images/places_sf_chinatown.jpg",
+      "address": "Chinatown, San Francisco, CA 94108, USA",
+      "description": "1. Az USA legrégebbi (1848) és Ázsián kívül az egyik legnagyobb kínai negyede.\n\n2. A díszes Dragon Gate (Sárkánykapu) a Grant Avenue-n a negyed jelképes bejárata.\n\n3. Itt található a Golden Gate Fortune Cookie Factory, ahol kézzel hajtogatják a szerencsesütiket — amit egyébként Amerikában, nem Kínában találtak fel.",
+      "coordinates": [
+        37.7941,
+        -122.4078
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Coit Tower",
+      "image": "images/places_coit_tower.jpg",
+      "address": "1 Telegraph Hill Blvd, San Francisco, CA 94133, USA",
+      "description": "1. A Telegraph Hill tetején álló 64 méteres art deco torony 1933-ban épült.\n\n2. Lillie Hitchcock Coit hagyatékából emelték, aki rajongott a tűzoltókért — sokan tűzoltófecskendő alakúnak látják a tornyot, bár a tervezők tagadták a szándékosságot.\n\n3. Belsejét az 1930-as évek falfestményei (murals) borítják, a nagy gazdasági válság kaliforniai életét ábrázolva.",
+      "coordinates": [
+        37.8024,
+        -122.4058
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "Twin Peaks",
+      "image": "images/places_twin_peaks.jpg",
+      "address": "Twin Peaks, San Francisco, CA 94114, USA",
+      "description": "1. Két, egyenként közel 280 méteres domb közel a város földrajzi közepén — 360 fokos panoráma az egész öbölre.\n\n2. A tiszta napokon a Golden Gate hídtól a belvároson át az öböl túlpartjáig minden belátható.\n\n3. A dombok érintetlen élőhelyet nyújtanak egy veszélyeztetett pillangófajnak, a Mission blue-nak.",
+      "coordinates": [
+        37.7544,
+        -122.4477
+      ]
+    },
+    {
+      "city": "san-francisco",
+      "name": "North Beach",
+      "image": "images/places_north_beach.jpg",
+      "address": "North Beach, San Francisco, CA 94133, USA",
+      "description": "1. A város olasz negyede — kávézók, pékségek és éttermek sokaságával.\n\n2. Az 1950-es évek beat-nemzedékének központja volt — itt működik a legendás City Lights könyvesbolt, Allen Ginsberg és Jack Kerouac törzshelye.\n\n3. Ma is itt található a legjobb eszpresszó és a hagyományos olasz vacsora a városban.",
+      "coordinates": [
+        37.8003,
+        -122.4103
+      ]
+    }
+  ],
+  "program": {
+    "2026.10.29 - csütörtök": [
+      {
+        "time": "08:00",
+        "name": "Repülés Washingtonból (3 óra időeltolódás)",
+        "address": "Reagan National / Dulles, Washington, DC"
+      },
+      {
+        "time": "12:30",
+        "name": "Szállás elfoglalása",
+        "address": "TODO szálloda, San Francisco, CA"
+      },
+      {
+        "time": "14:30",
+        "name": "Painted Ladies (Alamo Square)",
+        "address": "Steiner St, San Francisco, CA 94117"
+      },
+      {
+        "time": "18:00",
+        "name": "Mission District - vacsora",
+        "address": "Mission District, San Francisco, CA"
+      }
+    ],
+    "2026.10.30 - péntek": [
+      {
+        "time": "09:30",
+        "name": "Cable Car",
+        "address": "Powell St & Market St, San Francisco, CA 94102"
+      },
+      {
+        "time": "11:00",
+        "name": "Lombard Street",
+        "address": "Lombard St, San Francisco, CA 94133"
+      },
+      {
+        "time": "13:00",
+        "name": "Fisherman's Wharf - clam chowder",
+        "address": "Fisherman's Wharf, San Francisco, CA 94133"
+      },
+      {
+        "time": "15:00",
+        "name": "Pier 39 - tengeri oroszlánok",
+        "address": "Pier 39, San Francisco, CA 94133"
+      }
+    ],
+    "2026.10.31 - szombat": [
+      {
+        "time": "09:30",
+        "name": "Golden Gate Bridge - séta / bicikli",
+        "address": "Golden Gate Bridge, San Francisco, CA"
+      },
+      {
+        "time": "12:00",
+        "name": "Sausalito",
+        "address": "Sausalito, CA 94965"
+      },
+      {
+        "time": "17:00",
+        "name": "Komp vissza a Ferry Buildinghez - vacsora",
+        "address": "1 Ferry Building, San Francisco, CA 94111"
+      }
+    ],
+    "2026.11.01 - vasárnap": [
+      {
+        "time": "10:00",
+        "name": "Golden Gate Park (Japanese Tea Garden)",
+        "address": "Golden Gate Park, San Francisco, CA"
+      },
+      {
+        "time": "13:30",
+        "name": "Lands End - túra és Sutro Baths",
+        "address": "Lands End, San Francisco, CA 94121"
+      },
+      {
+        "time": "18:30",
+        "name": "Vacsora a Richmond / Sunset negyedben",
+        "address": "Richmond District, San Francisco, CA"
+      }
+    ],
+    "2026.11.02 - hétfő": [
+      {
+        "time": "09:00",
+        "name": "Napi kirándulás a borvidékre (Napa / Sonoma)",
+        "address": "Napa Valley, CA"
+      },
+      {
+        "time": "19:00",
+        "name": "Visszaút a városba - vacsora",
+        "address": "San Francisco, CA"
+      }
+    ],
+    "2026.11.03 - kedd": [
+      {
+        "time": "09:00",
+        "name": "Napi kirándulás a Highway 1-en",
+        "address": "Highway 1, CA"
+      },
+      {
+        "time": "11:30",
+        "name": "Half Moon Bay",
+        "address": "Half Moon Bay, CA 94019"
+      },
+      {
+        "time": "14:00",
+        "name": "Monterey",
+        "address": "Monterey, CA 93940"
+      },
+      {
+        "time": "19:00",
+        "name": "Visszaút San Franciscóba",
+        "address": "San Francisco, CA"
+      }
+    ],
+    "2026.11.04 - szerda": [
+      {
+        "time": "09:30",
+        "name": "Chinatown",
+        "address": "Chinatown, San Francisco, CA 94108"
+      },
+      {
+        "time": "11:30",
+        "name": "Coit Tower",
+        "address": "1 Telegraph Hill Blvd, San Francisco, CA 94133"
+      },
+      {
+        "time": "13:30",
+        "name": "Twin Peaks - panoráma",
+        "address": "Twin Peaks, San Francisco, CA 94114"
+      },
+      {
+        "time": "18:30",
+        "name": "North Beach - búcsúvacsora",
+        "address": "North Beach, San Francisco, CA 94133"
+      }
+    ],
+    "2026.11.05 - csütörtök": [
+      {
+        "time": "10:00",
+        "name": "Utolsó reggeli / ajándékvásárlás",
+        "address": "San Francisco, CA"
+      },
+      {
+        "time": "14:00",
+        "name": "Indulás az SFO repülőtérre - hazaút Budapestre",
+        "address": "San Francisco International Airport, CA"
+      }
+    ]
+  },
+  "travel": {
+    "cards": [
+      {
+        "title": "Washington D.C. - SFO",
+        "type": "airplane",
+        "time": "2026.10.29. TODO   -   2026.10.29. TODO",
+        "image": "images/travel_dc_sfo.jpg",
+        "address": "Ronald+Reagan+Washington+National+Airport",
+        "info": {
+          "startTime": "2026.10.29. TODO",
+          "start": "Washington - Reagan National / Dulles repülőtér",
+          "startAddress": "Ronald+Reagan+Washington+National+Airport",
+          "endTime": "2026.10.29. TODO",
+          "end": "San Francisco International Airport",
+          "endAddress": "San+Francisco+International+Airport"
+        }
+      },
+      {
+        "title": "SFO - BUD",
+        "type": "airplane",
+        "time": "2026.11.05. TODO   -   2026.11.06. TODO",
+        "image": "images/travel_sfo_bud.jpg",
+        "address": "San+Francisco+International+Airport",
+        "info": {
+          "startTime": "2026.11.05. TODO",
+          "start": "San Francisco International Airport",
+          "startAddress": "San+Francisco+International+Airport",
+          "endTime": "2026.11.06. TODO",
+          "end": "Budapest - Liszt Ferenc Nemzetközi repülőtér (átszállással)",
+          "endAddress": "Budapest+Liszt+Ferenc+Nemzetközi+Repülőtér"
+        }
+      }
+    ]
+  }
+}
