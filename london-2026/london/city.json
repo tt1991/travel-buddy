@@ -172,6 +172,17 @@
     },
     {
       "city": "london",
+      "name": "Sky Garden",
+      "image": "images/places_sky_garden.jpg",
+      "address": "1 Sky Garden Walk, London EC3M 8AF, UK",
+      "description": "1. London legmagasabb köztéri kertje a 20 Fenchurch Street („Walkie-Talkie\") felhőkarcoló tetején, 155 méter magasan, három szinten elterülő trópusi növényekkel.\n\n2. A belépés ingyenes, de előre kell időpontot foglalni — a panorámateraszról 360 fokos kilátás nyílik egész Londonra.\n\n3. Az épület jellegzetes befelé görbülő formája miatt 2013-ban a homlokzata úgy tükrözte vissza a napfényt, hogy az utcán megolvasztott egy leparkolt autó egyes műanyag részeit — a sajtó „Walkie-Scorchie\" néven emlegette.\n\n4. A kertben mediterrán és dél-afrikai növények élnek, például olajfák, levendula és stréliciák.\n\n5. Éttermek és bárok is találhatók a tetőn, ahonnan koktélozás közben nézhető a naplemente a Temze felett.",
+      "coordinates": [
+        51.5111,
+        -0.0834
+      ]
+    },
+    {
+      "city": "london",
       "name": "Borough Market",
       "image": "images/places_borough_market.jpg",
       "address": "8 Southwark St, London SE1 1TL, UK",
@@ -483,6 +494,11 @@
         "time": "13:00",
         "name": "Tower Bridge",
         "address": "Tower Bridge Rd, London SE1 2UP"
+      },
+      {
+        "time": "13:30",
+        "name": "Sky Garden",
+        "address": "1 Sky Garden Walk, London EC3M 8AF"
       },
       {
         "time": "13:45",
