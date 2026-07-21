@@ -11,6 +11,18 @@
           "path": "london-2026/london"
         }
       ]
+    },
+    {
+      "id": "london-2026-v2",
+      "name": "London",
+      "version": "1",
+      "cities": [
+        {
+          "id": "london",
+          "name": "London",
+          "path": "london-2026-v2/london"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,303 @@
+{
+  "city": {
+    "city": "london",
+    "name": "London",
+    "image": "images/city_london.jpg",
+    "address": "London, United Kingdom",
+    "description": "1. Londonban több mint 300 nyelvet beszélnek — ezzel a világ legtöbb nyelvet használó városa.\n\n2. A londoni metró (Underground, becenevén „the Tube\") a világ legrégebbi földalatti vasútja, 1863 óta üzemel. Összesen 402 km hosszú, ebből viszont csak 45% van tényleg a föld alatt.\n\n3. A Big Ben nem a torony neve, hanem a benne lévő 13,7 tonnás harangé. A tornyot hivatalosan Elizabeth Tower-nek hívják 2012 óta.\n\n4. Londonnak több könyvtára van, mint bármely más városnak a világon — több mint 380.\n\n5. A Buckingham Palace 775 szobás, van saját posta, mozi, uszoda és rendőrörse. A királyi család csak egy kis részét használja.\n\n6. A London-i taxisofőröknek („cabbies\") le kell tenniük „The Knowledge\" nevű vizsgát — 320 útvonalat és 25 000 utcát kell fejből tudniuk. Átlagosan 3-4 évig tanulnak rá.\n\n7. A londoni buszok azért pirosak, mert 1907-ben a London General Omnibus Company úgy döntött, hogy ezzel megkülönbözteti magát a konkurenciától.\n\n8. A Tower of London-ban legalább 6 hollónak mindig ott kell lennie — a legenda szerint, ha elmennek, a korona és a királyság összeomlik.\n\n9. A Temze folyó annyira szennyezett volt az 1950-es években, hogy „biológiailag halottnak\" nyilvánították. Ma már 125 halfaj él benne, köztük fókák és delfinek is felbukkannak néha.\n\n10. Londonban van a legtöbb park bármely nagyváros közül a világon — a város 47%-a zöldterület. Csak a nyolc királyi park együtt 2000 hektáros.\n\n+1: A Great Fire of London 1666-ban 4 napig égett, elpusztította a város 80%-át, de csak 6 halálos áldozata volt (hivatalosan). Ezt máig gyanúsan alacsonynak tartják a történészek."
+  },
+  "hotel": {
+    "city": "london",
+    "title": "STG Hotel Oxford Street - Urban room",
+    "image": "images/hotel_stg_hotel_oxford_street_urban_room.jpg",
+    "address": "Oxford Street\nLondon, United Kingdom",
+    "checkIn": "15:00",
+    "checkOut": "11:00",
+    "time": "2026.08.11.   -   2026.08.14."
+  },
+  "places": [
+    {
+      "city": "london",
+      "name": "Liverpool Street Station",
+      "image": "images/places_liverpool_street_station.jpg",
+      "address": "Liverpool St, London EC2M 7QH, UK",
+      "description": "1. London harmadik legforgalmasabb pályaudvara, naponta több mint 135 millió utas fordul meg itt évente.\n\n2. 1874-ben nyílt meg, és a helyén korábban a hírhedt Bethlem Royal Hospital (Bedlam) elmegyógyintézet állt.\n\n3. Innen indultak a Kindertransport vonatok a második világháború előtt, amikkel közel 10 000 zsidó gyereket menekítettek Nagy-Britanniába. Az érkezési oldalon emlékmű áll a tiszteletükre.\n\n4. A pályaudvart 1993-ban részben lebombázta az IRA egy teherautós robbantással, de csodával határos módon senki nem halt meg.\n\n5. A Harry Potter filmekben a King's Cross belső jelenetei közül több is valójában itt forgott, mert a King's Cross belseje kevésbé fotogén.",
+      "coordinates": [
+        51.5178,
+        -0.0823
+      ]
+    },
+    {
+      "city": "london",
+      "name": "Canary Wharf",
+      "image": "images/places_canary_wharf.jpg",
+      "address": "Canary Wharf, London E14, UK",
+      "description": "1. A név a Kanári-szigetekről érkező banán- és paradicsomszállítmányokra utal — az 1930-as években itt kötöttek ki a hajók.\n\n2. Az 1980-as évekig ez volt a világ legforgalmasabb kikötője, mára Európa egyik legnagyobb pénzügyi negyede.\n\n3. Az One Canada Square (a piramistetős torony) 1990–2010 között az Egyesült Királyság legmagasabb épülete volt, 235 méteres magasságával.\n\n4. A Canary Wharf szinte teljes egészében magántulajdon — a rendőrség, az utak, még a járdák is a Canary Wharf Group tulajdonában vannak.\n\n5. A Harry Potter és a Halál ereklyéi 1. részében itt robbantják fel a Millennium hidat — pedig az valójában a City-ben van.",
+      "coordinates": [
+        51.5054,
+        -0.0235
+      ]
+    },
+    {
+      "city": "london",
+      "name": "Covent Garden",
+      "image": "images/places_covent_garden.jpg",
+      "address": "London WC2E 8RF, UK",
+      "description": "1. Egykor London főzöldségpiaca volt — 1974-ben költöztették át modern piachelyre. A név a „Convent Garden\" torzulása, mert eredetileg a Westminster apátság kertje volt itt.\n\n2. A tér az egyetlen hely Londonban, ahol az utcai előadóknak audíciózniuk kell, hogy fellépési engedélyt kapjanak. Havonta közel 800-an jelentkeznek.\n\n3. A My Fair Lady itt játszódik — Eliza Doolittle virágárus lányként dolgozott a piacon.\n\n4. Itt van a London Transport Museum, régi metrókocsikkal és emeletes buszokkal.\n\n5. A Royal Opera House is itt található — a világ egyik legrangosabb operaháza, egykor III. György kedvenc szórakozóhelye volt.",
+      "coordinates": [
+        51.512,
+        -0.1226
+      ]
+    },
+    {
+      "city": "london",
+      "name": "Sky Garden",
+      "image": "images/places_sky_garden.jpg",
+      "address": "1 Sky Garden Walk, London EC3M 8AF, UK",
+      "description": "1. London legmagasabb köztéri kertje a 20 Fenchurch Street („Walkie-Talkie\") felhőkarcoló tetején, 155 méter magasan, három szinten elterülő trópusi növényekkel.\n\n2. A belépés ingyenes, de előre kell időpontot foglalni — a panorámateraszról 360 fokos kilátás nyílik egész Londonra.\n\n3. Az épület jellegzetes befelé görbülő formája miatt 2013-ban a homlokzata úgy tükrözte vissza a napfényt, hogy az utcán megolvasztott egy leparkolt autó egyes műanyag részeit — a sajtó „Walkie-Scorchie\" néven emlegette.\n\n4. A kertben mediterrán és dél-afrikai növények élnek, például olajfák, levendula és stréliciák.\n\n5. Éttermek és bárok is találhatók a tetőn, ahonnan koktélozás közben nézhető a naplemente a Temze felett.",
+      "coordinates": [
+        51.5111,
+        -0.0834
+      ]
+    },
+    {
+      "city": "london",
+      "name": "Troubadour Canary Wharf Theatre",
+      "image": "images/places_troubadour_canary_wharf_theatre.jpg",
+      "address": "11 Water St, Canary Wharf Estate, London E14 5GX, UK",
+      "description": "1. A Canary Wharf új negyedében, a Wood Wharf fejlesztési területén álló modern, rugalmas előadótér, amely nagyszabású, magával ragadó (immersive) színházi produkcióknak ad otthont.\n\n2. Az itt látható „The Hunger Games: On Stage\" a népszerű regény- és filmsorozat első élő színpadi feldolgozása, egy erre a helyszínre épített, 360 fokos arénaszínpaddal.\n\n3. A Troubadour Theatres a rugalmas, ideiglenes helyszíneiről ismert — a nézőteret minden produkcióhoz újratervezik.",
+      "coordinates": [
+        51.5048,
+        -0.0195
+      ]
+    },
+    {
+      "city": "london",
+      "name": "London Coliseum",
+      "image": "images/places_london_coliseum.jpg",
+      "address": "St Martin's Ln, London WC2N 4ES, UK",
+      "description": "1. London legnagyobb színháza 2359 férőhellyel, 1904-ben nyílt meg Frank Matcham tervei alapján.\n\n2. Az English National Opera otthona, de musicaleknek és vendégprodukcióknak is helyet ad — itt fut a „Now You See Me\" színpadi változata.\n\n3. Az épület tetején forgó földgömb és az edwardiánus barokk homlokzat a St Martin's Lane egyik jellegzetes látványossága.",
+      "coordinates": [
+        51.5097,
+        -0.1264
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "name": "Leadenhall Market",
+      "image": "images/movies_leadenhall_market.jpg",
+      "address": "Gracechurch St, London EC3V 1LT",
+      "description": "Az Átjáró-sor (Abszol út) bejárata és a Foltozott Üst a Harry Potter és a bölcsek kövében. A viktoriánus vásárcsarnok kék ajtaja lett a kocsma bejárata.",
+      "coordinates": [
+        51.5127,
+        -0.0836
+      ]
+    },
+    {
+      "name": "King's Cross pályaudvar",
+      "image": "images/movies_king_s_cross_palyaudvar.jpg",
+      "address": "Euston Rd, London N1 9AL",
+      "description": "A 9¾-es vágány, ahonnan a Roxfort Expressz indul. A pályaudvaron ma bevásárló-fotópont áll egy félig eltűnő poggyászkocsival.",
+      "coordinates": [
+        51.532,
+        -0.1233
+      ]
+    },
+    {
+      "name": "Australia House",
+      "image": "images/movies_australia_house.jpg",
+      "address": "Strand, London WC2B 4LA",
+      "description": "A Gringotts varázslóbank díszes belső csarnoka a bölcsek kövében. Az ausztrál nagykövetség épülete, kívülről nem látogatható.",
+      "coordinates": [
+        51.5133,
+        -0.1173
+      ]
+    },
+    {
+      "name": "Millennium híd",
+      "image": "images/movies_millennium_hid.jpg",
+      "address": "Thames Embankment, London SE1 9JE",
+      "description": "A halálfalók ezt a gyalogoshidat rombolják le a Félvér Herceg nyitányában.",
+      "coordinates": [
+        51.5095,
+        -0.0986
+      ]
+    },
+    {
+      "name": "Londoni Állatkert – hüllőház",
+      "image": "images/movies_londoni_allatkert_hullohaz.jpg",
+      "address": "Regent's Park, London NW1 4RY",
+      "description": "Itt beszél Harry először a kígyóval, és tünteti el az üveget a bölcsek kövében. A Reptile House ma is látogatható.",
+      "coordinates": [
+        51.5353,
+        -0.1534
+      ]
+    },
+    {
+      "name": "Claremont Square",
+      "image": "images/movies_claremont_square.jpg",
+      "address": "Claremont Square, London EC1R 0AS",
+      "description": "A Grimmauld tér 12. külső homlokzata, a Főnix Rendjének főhadiszállása a mugli sorházak között.",
+      "coordinates": [
+        51.53,
+        -0.109
+      ]
+    },
+    {
+      "name": "Great Scotland Yard",
+      "image": "images/movies_great_scotland_yard.jpg",
+      "address": "Great Scotland Yard, London SW1A 2HN",
+      "description": "A látogatói bejárat a Mágiaügyi Minisztériumba: a piros telefonfülke helyszíne a Főnix Rendjében.",
+      "coordinates": [
+        51.5065,
+        -0.1256
+      ]
+    },
+    {
+      "name": "Piccadilly Circus",
+      "image": "images/movies_piccadilly_circus.jpg",
+      "address": "Piccadilly Circus, London W1J 9HS",
+      "description": "Ide hoppanál a trió menekülés közben a Halál ereklyéi 1. részében, épp egy busz elé.",
+      "coordinates": [
+        51.5101,
+        -0.134
+      ]
+    },
+    {
+      "name": "Lambeth híd",
+      "image": "images/movies_lambeth_hid.jpg",
+      "address": "Lambeth Bridge, London SW1P 3JX",
+      "description": "A Kóbor Grimbusz préseli át magát két busz között ezen a hídon az Azkaban foglyában.",
+      "coordinates": [
+        51.4943,
+        -0.1226
+      ]
+    },
+    {
+      "name": "Westminster metróállomás",
+      "image": "images/movies_westminster_metroallomas.jpg",
+      "address": "Westminster Station, London SW1A 2JR",
+      "description": "Harry és Mr. Weasley a mugli metrón utazik a minisztériumi meghallgatásra a Főnix Rendjében.",
+      "coordinates": [
+        51.5012,
+        -0.1252
+      ]
+    },
+    {
+      "name": "St Pancras Renaissance Hotel",
+      "image": "images/movies_st_pancras_renaissance_hotel.jpg",
+      "address": "Euston Rd, London NW1 2AR",
+      "description": "A neogótikus homlokzat szolgált a King's Cross külsejeként, ahonnan Ron és Harry a repülő Ford Angliával indul az Eltűnt jóslatokban.",
+      "coordinates": [
+        51.5308,
+        -0.1257
+      ]
+    },
+    {
+      "name": "Borough Market",
+      "image": "images/movies_borough_market.jpg",
+      "address": "8 Southwark St, London SE1 1TL",
+      "description": "A Stoney Street és a piac környéke adta a Foltozott Üst bejáratát az Azkaban foglyában.",
+      "coordinates": [
+        51.5055,
+        -0.091
+      ]
+    }
+  ],
+  "program": {
+    "2026.08.22 - szombat": [
+      {
+        "time": "09:00",
+        "name": "Liverpool Street Station - érkezés",
+        "address": "Liverpool St, London EC2M 7QH"
+      },
+      {
+        "time": "10:00",
+        "name": "Covent Garden",
+        "address": "London WC2E 8RF"
+      },
+      {
+        "time": "17:00",
+        "name": "Canary Wharf",
+        "address": "Canary Wharf, London E14"
+      },
+      {
+        "time": "19:30",
+        "name": "Hunger Games theatre show",
+        "address": "11 Water St, Canary Wharf Estate, London E14 5GX"
+      }
+    ],
+    "2026.08.23 - vasárnap": [
+      {
+        "time": "13:00",
+        "name": "Now you see me theatre show",
+        "address": "St Martin's Ln, London WC2N 4ES"
+      }
+    ]
+  },
+  "travel": {
+    "cards": [
+      {
+        "title": "BUD - STN",
+        "type": "airplane",
+        "time": "2026.08.22. 05:50   -   2026.08.22. 07:35",
+        "image": "images/travel_bud_stn.jpg",
+        "address": "Budapest+Liszt+Ferenc+Nemzetközi+Repülőtér",
+        "info": {
+          "startTime": "2026.08.11. 05:50",
+          "start": "Budapest - Liszt Ferenc Nemzetközi repülőtér",
+          "startAddress": "Budapest+Liszt+Ferenc+Nemzetközi+Repülőtér",
+          "endTime": "2026.08.11. 07:35",
+          "end": "London - Stansted Airport",
+          "endAddress": "London+Stansted+Airport"
+        }
+      },
+      {
+        "title": "STN - Liverpool St",
+        "type": "train",
+        "time": "2026.08.22. 08:00   -   2026.08.22. 08:47",
+        "image": "images/travel_stn_liverpool_st.jpg",
+        "address": "London+Stansted+Airport",
+        "info": {
+          "startTime": "2026.08.22. 08:00",
+          "start": "London - Stansted Airport",
+          "startAddress": "London+Stansted+Airport",
+          "endTime": "2026.08.22. 08:47",
+          "end": "London - Liverpool Street Station",
+          "endAddress": "Liverpool+Street+Station+London"
+        }
+      },
+      {
+        "title": "Liverpool St - STN",
+        "type": "train",
+        "time": "2026.08.23. 15:30   -   2026.08.23. 16:30",
+        "image": "images/travel_liverpool_st_stn.jpg",
+        "address": "Liverpool+Street+Station+London",
+        "info": {
+          "startTime": "2026.08.23. 15:30",
+          "start": "London - Liverpool Street Station",
+          "startAddress": "Liverpool+Street+Station+London",
+          "endTime": "2026.08.23. 16:30",
+          "end": "London - Stansted Airport",
+          "endAddress": "London+Stansted+Airport"
+        }
+      },
+      {
+        "title": "STN - BUD",
+        "type": "airplane",
+        "time": "2026.08.23. 18:30   -   2026.08.23. 21:50",
+        "image": "images/travel_stn_liverpool_st.jpg",
+        "address": "London+Stansted+Airport",
+        "info": {
+          "startTime": "2026.08.23. 18:30",
+          "start": "London - Stansted Airport",
+          "startAddress": "London+Stansted+Airport",
+          "endTime": "2026.08.23. 21:50",
+          "end": "Budapest - Liszt Ferenc Nemzetközi repülőtér",
+          "endAddress": "Budapest+Liszt+Ferenc+Nemzetközi+Repülőtér"
+        }
+      }
+    ]
+  }
+}
