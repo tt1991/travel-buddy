@@ -14,11 +14,11 @@
     },
     {
       "id": "london-2026-v2",
-      "name": "London",
+      "name": "London v2",
       "version": "1",
       "cities": [
         {
-          "id": "london",
+          "id": "london-v2",
           "name": "London",
           "path": "london-2026-v2/london"
         }
